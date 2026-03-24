@@ -15,7 +15,7 @@
 >Còn lại là ==thơ tự do==
 ### Chỉ ra từ ngữ, hình ảnh chi tiết
 Theo tác giả/văn bản, `A` là gì?
-> [!IMPORTANT] Lưu ý
+> [!CAUTION] Lưu ý
 > Tìm và gạch chân từ ngữ, hình ảnh chi tiết, **tránh chép dài dòng**
 ### Ý nghĩa, hình ảnh chi tiết
 - Theo anh/chị/em, `A` là gì?
@@ -65,7 +65,7 @@ Nêu ra một loạt các từ ngữ, hình ảnh
 > - Tạo nên nhạc điệu cho câu văn, lời thơ
 > - Nhấn mạnh dụng ý của tác giả, tăng sức thuyết phục cho người đọc
 ### Đề tài, chủ đề
-> [!IMPORTANT] Chú ý
+> [!CAUTION] Chú ý
 > Đề tài **rộng hơn (ngắn gọn hơn)** chủ đề
 
 - Đề tài: Phạm vi đời sống thể hiện trực tiếp trong tác phẩm
@@ -86,6 +86,7 @@ Tìm trong nội dung bài thơ các từ khóa, căn cứ vào các từ khóa 
 Có/không đồng tình/vừa đồng tình, vừa không đồng tình 
 > [!CAUTION] Giải thích
 > Nếu vừa đồng tình, vừa không đồng tình thì cần giải thích theo hai hướng
+
 ___
 ### Thông điệp
 Chúng ta cần...

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ngữ văn/Nghị luận xã hội.md",
+                "file": "Ngữ văn/Đọc hiểu.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Nghị luận xã hội"
+              "title": "Đọc hiểu"
+            }
+          },
+          {
+            "id": "9bbd186423c50792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           },
           {
@@ -210,8 +224,10 @@
   },
   "active": "b899667c7ea8d52f",
   "lastOpenFiles": [
-    "Ngữ văn/Đọc hiểu.md",
     "Ngữ văn/Bút pháp.md",
+    "Notes.base",
+    "Test.md",
+    "Ngữ văn/Đọc hiểu.md",
     "Ngữ văn/Nghị luận xã hội.md",
     "Ngữ văn",
     "Ngữ văn.md"
